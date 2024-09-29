@@ -46,6 +46,7 @@ header{
 /* Section  */
 .main_section{
     width: 1440px;
+    background-color: #D4F3F0;
 }
 
 .section_second{
@@ -93,6 +94,7 @@ button{
     height: 46px;
     background-color: #2A9D8F;
     margin-top: 80px;
+    border: 0;
 }
 .button_link{
     font-family: "Kanit", sans-serif;
